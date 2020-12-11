@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there! I'm Sodiq 👋
-🌱 My name is Ayinde Sodiq.😀, I am a Web Developer
+I'm Sodiq 😀, I am a Web Developer
 
 - 🔭 I’m currently working on my portfolio using Vanilla Javascript
 - 🌱 I’m currently learning Django-REST Framework and Vue.js
