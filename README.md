@@ -22,6 +22,6 @@ I'm Sodiq 😀, I am a Web Developer
 - 👯 I’m looking to collaborate on any Django or Vue Projects
 - 🤔 I’m looking for help with internship position and a good working machine
 - 💬 Ask me about Python and JavaScript
-- 📫 How to reach me: +2348108160545, ayindesodeeq2@gmail.com
+- 📫 How to reach me: ayindesodeeq2@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a big fan of TV Series
