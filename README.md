@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm Sodiq 😀, I am a Web Developer
 
 - 🔭 I’m currently working on my portfolio using Vanilla Javascript
-- 🌱 I’m currently learning Django-REST Framework and Vue.js
+- 🌱 I’m currently learning Nodejs and Solidity
 - 👯 I’m looking to collaborate on any Django or Vue Projects
 - 🤔 I’m looking for help with internship position and a good working machine
 - 💬 Ask me about Python and JavaScript
