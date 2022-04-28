@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Sodiq 😀, I am a Web Developer
+I'm Sodiq 😀, I am a Vuejs Developer
 
-- 🔭 I’m currently working on my portfolio using Vanilla Javascript
 - 🌱 I’m currently learning Nodejs and Solidity
 - 👯 I’m looking to collaborate on any Django or Vue Projects
-- 🤔 I’m looking for help with internship position and a good working machine
 - 💬 Ask me about Python and JavaScript
 - 📫 How to reach me: ayindesodeeq2@gmail.com
 - 😄 Pronouns: He/Him
